@@ -1,2 +1,4 @@
 1.Building single page application with vanila javascript?
 Ans: frontend web appication is all about handeling data and displaying it to the user. ui always needs to stay sync with updated data(data<->ui).it is a very hard task to do. If we want to build a complex app with simple javascript we have to do so much DOM Manipulation and traversing. Data(state) stored in DOM and working with state may create lot of bugs. frontend framework helps to keep ui in sync with data and it also helps to write a structural code.
+2. what is react?
+Ans: It is declarative,extremely popular, ccomponent based, state driven javascript library for building UI created by facebook.components are the building block in react. declaratrive: telling React what a componenet should look like, based on current state using jsx(combination of HTML,CSS and javascript)
