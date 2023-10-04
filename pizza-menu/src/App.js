@@ -1,8 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
-
+import ProfileCard from "./Assignments/ProfileCard";
 function App() {
-  return <div className="App">Hello React!</div>;
+  return (
+    <div className="App">
+      <ProfileCard />
+    </div>
+  );
 }
 
 export default App;
